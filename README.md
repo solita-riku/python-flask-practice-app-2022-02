@@ -1,5 +1,5 @@
 # python-flask-practice-app-2022-02
-This is a simple and public python flask practice app
+This is a simple and public Python Flask practice app.
 
 ## Azure example reference
 
